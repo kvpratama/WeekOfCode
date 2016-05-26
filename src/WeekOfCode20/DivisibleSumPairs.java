@@ -1,3 +1,5 @@
+package WeekOfCode20;
+
 import java.util.Scanner;
 
 public class DivisibleSumPairs {
